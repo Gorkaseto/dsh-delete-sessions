@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Delete Sessions",
+    "description": "Adds a \"Delete session\" option to the sidebar session menu that permanently removes the session from disk."
+  }
+}
